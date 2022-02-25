@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-TylerTheCreator-Discography/static/css/main.d3c6936b.css",
+    "main.js": "/React-TylerTheCreator-Discography/static/js/main.47073381.js",
+    "index.html": "/React-TylerTheCreator-Discography/index.html",
+    "main.d3c6936b.css.map": "/React-TylerTheCreator-Discography/static/css/main.d3c6936b.css.map",
+    "main.47073381.js.map": "/React-TylerTheCreator-Discography/static/js/main.47073381.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c6936b.css",
+    "static/js/main.47073381.js"
+  ]
+}
