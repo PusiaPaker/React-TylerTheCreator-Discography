@@ -1,0 +1,44 @@
+body{
+    float: left;
+    position: relative;
+}
+
+fieldset{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    min-width: 450px;
+    min-height: 400px;
+    text-decoration: none;
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+    max-width: 450px;
+}
+
+fieldset legend{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: black;
+    font-size: 20px;
+    background-color: rgb(228, 213, 193);
+    /* border:1px; */
+    border: none;
+    /* border-style: double; */
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+
+.items{
+    padding-left: 10px;
+    font-size: 15px;
+    color: black;
+    
+}
+
+.items :hover{
+    font-size: 17px;
+    color: lightslategrey;
+    cursor: pointer;
+    padding-left: 12px;
+}
