@@ -1,0 +1,167 @@
+{
+    "name": "Tyler Gregory Okonma",
+    "alias": "Tyler The Creator",
+    "age": 30,
+    "genre": [
+        "Hip-Hop",
+        "Horrorcore",
+        "Neo Soul",
+        "Alternative Hip-Hop",
+        "Jazz Rap"
+    ],
+    "albums": [
+        {
+            "name": "Bastard",
+            "date": 2009,
+            "runtime": "55:50",
+            "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/BASTARDCOVER.png",
+            "songs": [
+                "Bastard",
+                "Seven",
+                "Odd Toddlers",
+                "French!",
+                "Blow",
+                "Pigs Fly",
+                "Parade",
+                "Slow It Down",
+                "AssMilk",
+                "VCR / Wheels",
+                "Session",
+                "Sarah",
+                "Jack and the Beanstalk",
+                "Tina",
+                "Inglorious"
+            ]
+        },
+        {
+            "name": "Goblin",
+            "date": 2011,
+            "runtime": "73:49",
+            "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/Goblincover.jpg",
+            "songs": [
+                "Goblin",
+                "Yonkers",
+                "Radicals",
+                "She",
+                "Transylvania",
+                "Nightmare",
+                "Tron Cat",
+                "Her",
+                "Sandwitches",
+                "Fish",
+                "Analog",
+                "B.S.D.",
+                "Window",
+                "AU79",
+                "Golden"
+            ]
+        },
+        {
+            "name": "Wolf",
+            "date": 2013,
+            "runtime": "71:17",
+            "image": "https://upload.wikimedia.org/wikipedia/en/5/53/Wolf_cover3.jpg",
+            "songs": [
+                "Wolf",
+                "Cowboy",
+                "Awkward",
+                "Domo23",
+                "Answer",
+                "48",
+                "Colossus",
+                "Pigs",
+                "Tamale",
+                "Lone"
+            ]
+        },
+        {
+            "name": "Cherry Bomb",
+            "date": 2015,
+            "runtime": "54:04",
+            "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Cherry_Bomb_Tyler_the_Creator.png",
+            "songs": [
+                "DEATHCAMP",
+                "BUFFALO",
+                "PILOT",
+                "RUN",
+                "FIND YOUR WINGS",
+                "CHERRY BOMB",
+                "BLOW MY LOAD",
+                "2SEATER",
+                "THE BROWN STAINS OF DARKEESE LATIFAH PART 6-12",
+                "Fucking Young / Perfect",
+                "SMUCKERS",
+                "KEEP DA O'S",
+                "OKAGA, CA"
+            ]
+        },
+        {
+            "name": "Flower Boy",
+            "date": 2017,
+            "runtime": "46:33",
+            "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Tyler%2C_the_Creator_-_Flower_Boy.png",
+            "songs": [
+                "Foreword",
+                "Where This Flower Blooms",
+                "Sometimes...",
+                "See You Again",
+                "Who Dat Boy",
+                "Pothole",
+                "Garden Shed",
+                "Boredom",
+                "I Ain't Got Time!",
+                "911 / Mr. Lonely",
+                "Droppin' Seeds",
+                "November",
+                "Glitter",
+                "Enjoy Right Now, Today"
+            ]
+        },
+        {
+            "name": "Igor",
+            "date": 2019,
+            "runtime": "39:43",
+            "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Igor_-_Tyler%2C_the_Creator.jpg",
+            "songs": [
+                "IGOR'S THEME",
+                "EARFQUAKE",
+                "WHAT'S GOOD",
+                "GONE, GONE / THANK YOU",
+                "NEW MAGIC WAND",
+                "ARE WE STILL FRIENDS?",
+                "RUNNING OUT OF TIME",
+                "A BOY IS A GUN*",
+                "I THINK",
+                "I DON'T LOVE YOU ANYMORE",
+                "Puppet",
+                "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING",
+                "BOYFRIEND",
+                "Fragile"
+            ]
+        },
+        {
+            "name": "Call Me If You Get Lost",
+            "date": 2021,
+            "runtime": "52:41",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/Call_Me_If_You_Get_Lost_album_cover.jpg",
+            "songs": [
+                "SIR BAUDELAIRE",
+                "CORSO",
+                "LEMONHEAD",
+                "WUSYANAME",
+                "LUMBERJACK",
+                "HOT WIND BLOWS",
+                "MASSA",
+                "RUNITUP",
+                "MANIFESTO",
+                "SWEET / I THOUGHT YOU WANTD TO DANCE",
+                "MOMMA TALK",
+                "RISE!",
+                "BLESSED",
+                "JUGGERNAUT",
+                "WILSHIRE",
+                "SAFARI"
+            ]
+        }
+    ]
+}
